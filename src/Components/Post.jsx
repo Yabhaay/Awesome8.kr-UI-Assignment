@@ -13,7 +13,7 @@ import Menu from '../assets/menu.svg';
 const Post = () => {
     return (
         <React.Fragment>
-            <Box>
+            <Box textAlign={'center'}>
                 <img src={PostImg} alt="post" style={{
                     width: '100%',
                     height: '450px',
